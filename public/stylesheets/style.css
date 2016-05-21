@@ -1,0 +1,47 @@
+.welcome_to_page {
+	text-align: center;
+}
+
+.about_me{
+	text-align: center;
+	color: #E536FF;
+	font-size: 25px
+}
+
+.show_em_your_badge {
+	width: 200px;
+	height:auto;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	margin-right: 100%;
+}
+
+.text_color {
+	color: #E536FF;
+} 
+
+.alignment {
+	text-align:left;
+}
+
+.image {
+	border-image:  url:https://www.facebook.com/photo.php?fbid=618513848235135&set=t.585187817&type=3&theater;
+}
+
+.background {
+	background-image: url("http://www.zabrisk.com/wp-content/uploads/2014/03/slcslide1.jpg");
+	color: #E536FF;
+}
+
+.footer {
+	color: white;   
+}
+
+.resume {
+	text-align: center
+	olor: white;
+	font-size: 20px
+}
+
